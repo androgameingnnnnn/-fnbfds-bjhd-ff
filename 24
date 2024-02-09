@@ -1,0 +1,7 @@
+while true # start an infinite loop
+do
+  echo "Hello"
+   # print "Hello"
+   echo "Hello"
+  sleep 5 # wait for 1 second
+done # end the loop
